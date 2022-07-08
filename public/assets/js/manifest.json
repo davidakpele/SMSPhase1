@@ -1,0 +1,58 @@
+{
+  "short_name": "Mercy Colleage Student Management System Software",
+  "name": "Mercy Colleage University Of Nigeria",
+  "icons": [
+    {
+      "src": "http://localhost/Student/public/assets/GeneralAccess/Manifest_files/imageimg/icon-plain.svg",
+      "type": "image/svg+xml",
+      "sizes": "150x150",
+      "purpose": "maskable"
+    },
+    {
+      "src": "http://localhost/Student/public/assets/GeneralAccess/Manifest_files/image/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "http://localhost/Student/public/assets/GeneralAccess/Manifest_files/image/icon-safe-zone.svg",
+      "type": "image/svg+xml",
+      "sizes": "150x150",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "http://localhost/Student/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "http://localhost/Student/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "Mercy Colleage University Of Nigeria",
+      "short_name": "Mercy Colleage Student Management System Software",
+      "description": "Mercy Colleage University Of Nigeria",
+      "url": "http://localhost/Student/Management/Log/",
+      "icons": [{ "src": "http://localhost/Student/public/assets/GeneralAccess/Manifest_files/image/android-chrome-512x512.png", "sizes": "512x512" }]
+    },
+    {
+      "name": "Mercy Colleage University",
+      "short_name": "Mercy Colleage Student Management System Software",
+      "description": "Mercy Colleage University Of Nigeria",
+      "url": "http://localhost/Student/Management/Log/",
+       "icons": [{ "src": "http://localhost/Student/public/assets/GeneralAccess/Manifest_files/image/monochrome-icon-tinted.svg", "sizes": "150x150" }]
+    }
+  ],
+  "description": "Mercy Colleage University Of Nigeria",
+  "screenshots": [
+    {
+      "src": "http://localhost/Student/public/assets/GeneralAccess/Manifest_files/image/icon-mask-android-squircle.svg",
+      "type": "image/svg+xml",
+      "sizes": "150x150"
+    },
+    {
+      "src": "http://localhost/Student/public/assets/GeneralAccess/Manifest_files/image/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

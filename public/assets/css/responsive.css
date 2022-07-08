@@ -1,0 +1,222 @@
+@media screen and (max-width: 990px) {
+    .form-ui-panel .col-sm-12 {
+        padding-left: 0px !important;
+    }
+    .form-ui-panel .col-md-9 {
+        padding-left: 0px !important;
+    }
+    .proceed-application {
+       margin-left: -15px;
+    }
+    .single-left {
+        display: none;
+    }
+    .single-right {
+        width: 100%;
+    }
+    nav#desktop-menu {
+        display: none;
+    }
+    nav#mobile-menu {
+        display: block;
+    }
+    ul.vertical-1 li a {
+        line-height: 24px;
+        border: none;
+        padding-left: 15px;
+        color: #000;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    img #displaypassport {
+        height: 150px !important;
+        width: 150px !important;
+    }
+    input[type="submit"].upload {
+        margin-top: 10px !important;
+        /*float: left !important;*/
+    }
+    .mobile-passport {
+        display: block !important;
+        padding-left: 15px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .login-widget {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 767px) {
+    .app-btn-cta > a > div {
+        margin-bottom: 30px !important;
+    }
+    .form-ui-panel .col-sm-9 {
+        padding-left: 0px !important;
+    }
+    .proceed-application {
+        margin-top: 20px;
+        margin-left: -15px;
+    }
+    label.make-full {
+        width: 100% !important;
+    }
+    .allow-to-select {
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .login-widget {
+        width: 60%;
+    }
+}
+@media screen and (max-width: 550px) {
+    .login-widget {
+        width: 72%;
+    }
+    .select-drop-down select {
+        width: 100% !important;
+    }
+}
+@media screen and (max-width: 500px) {
+    .first-btn, .second-btn, .third-btn {
+        float: left;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .first-btn input, .second-btn a, .third-btn input {
+        width: 40%;
+    }
+    .third-btn input {
+        float: left !important;
+    }
+    .skip {
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .all-availbale-options-btn .submit, .options-btn-all .submit {
+        float: none !important;
+        display: block !important;
+        margin-bottom: 10px !important;
+        width: 37%;
+    }
+    .all-availbale-options-btn .skip, .all-availbale-options-btn .add, .options-btn-all .skip, .options-btn-all .add {
+        float: none !important;
+        display: block !important;
+        margin-right: 50%;
+        margin-bottom: 10px;
+        margin-left: 0px !important;
+        width: 37%;
+    }
+}
+@media screen and (max-width: 470px) {
+    .first-btn input, .second-btn a, .third-btn input {
+        width: 47%;
+    }
+}
+@media screen and (max-width: 460px) {
+    .all-availbale-options-btn .submit, .options-btn-all .submit {
+        width: 45%;
+    }
+    .all-availbale-options-btn .skip, .all-availbale-options-btn .add, .options-btn-all .skip, .options-btn-all .add {
+        width: 45%;
+    }
+}
+@media screen and (max-width: 440px) {
+    .utme-login-wrap, .topic-wrap {
+        max-width: 360px !important;
+    }
+}
+@media screen and (max-width: 430px) {
+    .first-btn input, .second-btn a, .third-btn input {
+        width: 53%;
+    }
+}
+@media screen and (max-width: 420px) {
+    .login-widget {
+        width: 90%;
+    }
+}
+@media screen and (max-width: 400px) {
+    .all-availbale-options-btn .submit, .options-btn-all .submit {
+        width: 50%;
+    }
+    .all-availbale-options-btn .skip, .all-availbale-options-btn .add, .options-btn-all .skip, .options-btn-all .add {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 490px) {
+    .applicant-submit {
+        background: transparent;
+        color: #2383ad;
+        text-decoration: underline;
+    }
+    .preview-error-msg {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+}
+@media screen and (max-width: 390px) {
+    .first-btn input, .second-btn a, .third-btn input {
+        width: 60%;
+    }
+    .utme-login-wrap, .topic-wrap {
+        max-width: 320px !important;
+    }
+}
+@media screen and (max-width: 386px) {
+    .footer-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-wrap {
+        padding-top: 20px;
+    }
+}
+@media screen and (max-width: 370px) {
+    .all-availbale-options-btn .submit, .options-btn-all .submit {
+        width: 55%;
+    }
+    .all-availbale-options-btn .skip, .all-availbale-options-btn .add, .options-btn-all .skip, .options-btn-all .add {
+        width: 55%;
+    }
+    .first-btn input, .second-btn a, .third-btn input {
+        width: 67%;
+    }
+}
+@media screen and (max-width: 360px) {
+    .utme-login-wrap, .topic-wrap {
+        max-width: 280px !important;
+    }
+}
+@media screen and (max-width: 350px) {
+    .all-availbale-options-btn .submit, .options-btn-all .submit {
+        width: 60%;
+    }
+
+    .all-availbale-options-btn .skip, .all-availbale-options-btn .add, .options-btn-all .skip, .options-btn-all .add {
+        width: 60%;
+    }
+}
+@media screen and (max-width: 330px) {
+    .all-availbale-options-btn .submit, .options-btn-all .submit {
+        width: 65%;
+    }
+    .all-availbale-options-btn .skip, .all-availbale-options-btn .add, .options-btn-all .skip, .options-btn-all .add {
+        width: 65%;
+    }
+    .first-btn input, .second-btn a, .third-btn input {
+        width: 100%;
+    }
+    .utme-login-wrap, .topic-wrap {
+        max-width: 260px !important;
+    }
+}
+
+

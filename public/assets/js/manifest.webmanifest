@@ -1,0 +1,32 @@
+{
+    "start_url": "http://localhost/school/users/",
+    "name": "Mercy Colleage School Management System Software",
+    "short_name": "MidTech School Management System Software",
+    "theme_color": "#007AB5",
+    "display": "standalone",
+    "description":  "MidTech School Management System Software FOR Mercy College",
+    "icons": [
+        {
+            "src": "http://localhost/school/public/assets/icons/android.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+
+        {
+            "src": "http://localhost/school/public/assets/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "http://localhost/school/public/assets/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+        
+    ],
+    "background_color": "#fff",
+    "orientation": "portrait"
+}
